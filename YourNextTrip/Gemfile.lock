@@ -36,13 +36,6 @@ GEM
       minitest (~> 5.1)
       thread_safe (~> 0.3, >= 0.3.4)
       tzinfo (~> 1.1)
-<<<<<<< HEAD
-    arel (6.0.3)
-    binding_of_caller (0.7.2)
-      debug_inspector (>= 0.0.1)
-    builder (3.2.2)
-    byebug (8.2.2)
-=======
     addressable (2.4.0)
     arel (6.0.3)
     autoprefixer-rails (6.3.3.1)
@@ -61,7 +54,6 @@ GEM
       rack (>= 1.0.0)
       rack-test (>= 0.5.4)
       xpath (~> 2.0)
->>>>>>> a842b07ec1904b400cf5075770209c6cbe9456c7
     coffee-rails (4.1.1)
       coffee-script (>= 2.2.0)
       railties (>= 4.0.0, < 5.1.x)
@@ -71,8 +63,6 @@ GEM
     coffee-script-source (1.10.0)
     concurrent-ruby (1.0.1)
     debug_inspector (0.0.2)
-<<<<<<< HEAD
-=======
     devise (3.5.6)
       bcrypt (~> 3.0)
       orm_adapter (~> 0.1)
@@ -80,7 +70,6 @@ GEM
       responders
       thread_safe (~> 0.1)
       warden (~> 1.2.3)
->>>>>>> a842b07ec1904b400cf5075770209c6cbe9456c7
     erubis (2.7.0)
     execjs (2.6.0)
     globalid (0.3.6)
@@ -104,10 +93,7 @@ GEM
     multi_json (1.11.2)
     nokogiri (1.6.7.2)
       mini_portile2 (~> 2.0.0.rc2)
-<<<<<<< HEAD
-=======
     orm_adapter (0.5.0)
->>>>>>> a842b07ec1904b400cf5075770209c6cbe9456c7
     rack (1.6.4)
     rack-test (0.6.3)
       rack (>= 1.0)
@@ -138,11 +124,8 @@ GEM
     rake (11.1.0)
     rdoc (4.2.2)
       json (~> 1.4)
-<<<<<<< HEAD
-=======
     responders (2.1.1)
       railties (>= 4.2.0, < 5.1)
->>>>>>> a842b07ec1904b400cf5075770209c6cbe9456c7
     sass (3.4.21)
     sass-rails (5.0.4)
       railties (>= 4.0.0, < 5.0)
@@ -172,37 +155,26 @@ GEM
     uglifier (2.7.2)
       execjs (>= 0.3.0)
       json (>= 1.8.0)
-<<<<<<< HEAD
-=======
     warden (1.2.6)
       rack (>= 1.0)
->>>>>>> a842b07ec1904b400cf5075770209c6cbe9456c7
     web-console (2.3.0)
       activemodel (>= 4.0)
       binding_of_caller (>= 0.7.2)
       railties (>= 4.0)
       sprockets-rails (>= 2.0, < 4.0)
-<<<<<<< HEAD
-=======
     xpath (2.0.0)
       nokogiri (~> 1.3)
->>>>>>> a842b07ec1904b400cf5075770209c6cbe9456c7
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
-<<<<<<< HEAD
-  byebug
-  coffee-rails (~> 4.1.0)
-=======
   autoprefixer-rails
   bootstrap-sass (= 3.2.0.0)
   byebug
   capybara
   coffee-rails (~> 4.1.0)
   devise
->>>>>>> a842b07ec1904b400cf5075770209c6cbe9456c7
   jbuilder (~> 2.0)
   jquery-rails
   rails (= 4.2.5.2)

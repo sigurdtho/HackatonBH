@@ -5,3 +5,7 @@
 #
 #   cities = City.create([{ name: 'Chicago' }, { name: 'Copenhagen' }])
 #   Mayor.create(name: 'Emanuel', city: cities.first)
+
+a1 = Activitie.create(title: "Gokart", description: "Drive a fast car!", location: "Downtown Oslo", image: "http://faavangamerikanerklubb.org/wp-content/uploads/2013/09/go-kart.jpg")
+
+a2 = Activitie.create(title: "Frogner Paintball", description: "Skyt hverandre så det gjør vondt!!!!", location: "Frogner", image: "https://i.ytimg.com/vi/r2g4vQR_1i8/maxresdefault.jpg")
