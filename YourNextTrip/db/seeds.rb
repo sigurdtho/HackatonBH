@@ -9,3 +9,5 @@
 a1 = Activitie.create(title: "Gokart", description: "Drive a fast car!", location: "Downtown Oslo", image: "http://faavangamerikanerklubb.org/wp-content/uploads/2013/09/go-kart.jpg")
 
 a2 = Activitie.create(title: "Frogner Paintball", description: "Skyt hverandre så det gjør vondt!!!!", location: "Frogner", image: "https://i.ytimg.com/vi/r2g4vQR_1i8/maxresdefault.jpg")
+
+a3 = Activitie.create(title: "Shopping på Arkaden", description: "Shope til u drope!", location: "Arkaden", image: "http://i.livescience.com/images/i/000/002/542/i02/080919-shopping-woman-02.jpg?1296072865")
