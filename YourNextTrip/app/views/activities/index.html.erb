@@ -1,0 +1,15 @@
+  
+<% @activities.each do |activitie| %>
+  <div class="activitie">
+    <div class="row">
+      <div class="thumbnail">
+        <img src="<%= activitie.image %>">
+      </div>
+      <div class="col-md-9">
+        <p class="title"> <%= activitie.title %> </p>
+        <p class="location">by <%= activitie.location %> </p>
+        <p class="description"> <%= activitie.description %>  </p>
+      </div>
+    </div>
+  </div>
+<% end %>
